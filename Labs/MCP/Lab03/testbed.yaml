@@ -1,6 +1,6 @@
 ---
 devices:
-  R1:
+  CAT9k_AO#:
     alias: "R1"
     type: "router"
     os: "iosxe"
